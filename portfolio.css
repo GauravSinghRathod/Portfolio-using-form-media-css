@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    
+}
+ .container{
+    color: black;
+    background-color: grey;
+    padding: 20px;
+ }
+ h1{
+    text-align: center;
+ }
+
+
+h2{
+    color: blue;
+    background-color: wheat;
+}
+
+button{
+    background-color: green;
+     color: whitesmoke;
+}
+
+
